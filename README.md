@@ -1,6 +1,6 @@
 # Le Légumien – Application de Gestion des Légumes
 
-![Logo](backend/storage/app/public/screenshots/screenshot1.png)
+![Logo](backend/public/screenshots/screenshot1.png)
 
 **Le Légumien** est une application fullstack Laravel + Vue.js pour gérer et afficher des légumes frais.  
 Elle propose un panneau d'administration pour ajouter, modifier et supprimer des légumes, avec gestion des images et des likes côté utilisateur.
@@ -117,13 +117,13 @@ frontend/
 
 ## Captures d’écran
 
-![Home](backend/storage/app/public/screenshots/screenshot1.png)
+![Home](backend/public/screenshots/screenshot1.png)
 *Liste des légumes côté utilisateur*
 
-![Admin List](backend/storage/app/public/screenshots/screenshot2.png)
+![Admin List](backend/public/screenshots/screenshot2.png)
 *Tableau d’administration des légumes*
 
-![Admin Edit](backend/storage/app/public/screenshots/screenshot3.png)
+![Admin Edit](backend/public/screenshots/screenshot3.png)
 *Formulaire d’ajout / modification d’un légume*
 
 ---
@@ -141,7 +141,3 @@ frontend/
 ## Licence
 
 MIT © Aliou Mbengue
-
-```
-
-
